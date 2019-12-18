@@ -10,7 +10,7 @@ def setup_app():
     # Make sure codeserver is in $PATH
     def _app_command(port):
        
-        return ['app.sh', '{port}'] 
+        return ['/mnt/app.sh', '{port}'] 
         
     return {
         'command': _app_command,
