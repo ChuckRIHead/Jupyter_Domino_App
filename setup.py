@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name="jupyter-codeserver-proxy",
+    name="Jupyter_Domino_App",
     version='.1',
     url="",
     author="support@dominodatalab.com",
