@@ -1,5 +1,4 @@
 """
-Return config on servers to start for codeserver
 
 See https://jupyter-server-proxy.readthedocs.io/en/latest/server-process.html
 for more information.
