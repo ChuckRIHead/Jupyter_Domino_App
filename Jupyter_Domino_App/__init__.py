@@ -19,6 +19,6 @@ def setup_app():
         'launcher_entry': {
             'title': 'Domino App',
             'icon_path': os.path.join(os.path.dirname(os.path.abspath(__file__)),
-                                      'icons', 'vscode.svg')
+                                      'icons', 'domino_logo.svg')
         }
     }
